@@ -1,6 +1,5 @@
-👋 Hi, I’m Elena
+<img src="./фон.jpg">
 
-👀 I’m from Minsk (Belarus)
 ## Contacts
 **E-mail:** elena.bo.d8@gmail.com  
 **Skype:** elena.bo.d8  
