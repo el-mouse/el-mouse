@@ -3,7 +3,7 @@
 ## Contacts
 **E-mail:** elena.bo.d8@gmail.com  
 **Skype:** elena.bo.d8  
-## Skills
+## Languages and Tools
 A basic level of
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
