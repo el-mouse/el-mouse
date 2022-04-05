@@ -1,4 +1,4 @@
-<img src="./фон.jpg" alt="" align="center">
+<img src="./bg1.jpg" alt="" align="center">
 
 ## Contacts
 **E-mail:** elena.bo.d8@gmail.com  
