@@ -11,6 +11,9 @@ A basic level of
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Projects
+* [Слайдер на CSS](https://github.com/DrDiman/CSS-Mem-Slider)
+* [Pizza. Верстка лендинга без адаптива (HTML, CSS)](https://el-mouse.github.io/Pizza/)
 
 <!---
 el-mouse/el-mouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
