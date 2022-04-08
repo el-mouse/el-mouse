@@ -12,7 +12,7 @@ A basic level of
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## Projects
-* [Слайдер на CSS](https://el-mouse.github.io/cssMemSlider/cssMemSlider/index.html)
+* [Слайдер на CSS без адаптива (HTML, CSS)](https://el-mouse.github.io/cssMemSlider/cssMemSlider/index.html)
 * [Pizza. Верстка лендинга без адаптива (HTML, CSS)](https://el-mouse.github.io/Pizza/)
 
 <!---
